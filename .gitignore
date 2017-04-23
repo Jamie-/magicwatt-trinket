@@ -1,0 +1,4 @@
+# Ignore all libraries used in case of copyright/licence issues.
+*.c
+*.cpp
+*.h
